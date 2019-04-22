@@ -1,0 +1,11 @@
+E:\Dropbox\Projetos\GeradorMegaSena\GeradorMegaSena\bin\Debug\netcoreapp2.1\GeradorMegaSena.deps.json
+E:\Dropbox\Projetos\GeradorMegaSena\GeradorMegaSena\bin\Debug\netcoreapp2.1\GeradorMegaSena.runtimeconfig.json
+E:\Dropbox\Projetos\GeradorMegaSena\GeradorMegaSena\bin\Debug\netcoreapp2.1\GeradorMegaSena.runtimeconfig.dev.json
+E:\Dropbox\Projetos\GeradorMegaSena\GeradorMegaSena\bin\Debug\netcoreapp2.1\GeradorMegaSena.dll
+E:\Dropbox\Projetos\GeradorMegaSena\GeradorMegaSena\bin\Debug\netcoreapp2.1\GeradorMegaSena.pdb
+E:\Dropbox\Projetos\GeradorMegaSena\GeradorMegaSena\obj\Debug\netcoreapp2.1\GeradorMegaSena.csprojAssemblyReference.cache
+E:\Dropbox\Projetos\GeradorMegaSena\GeradorMegaSena\obj\Debug\netcoreapp2.1\GeradorMegaSena.csproj.CoreCompileInputs.cache
+E:\Dropbox\Projetos\GeradorMegaSena\GeradorMegaSena\obj\Debug\netcoreapp2.1\GeradorMegaSena.AssemblyInfoInputs.cache
+E:\Dropbox\Projetos\GeradorMegaSena\GeradorMegaSena\obj\Debug\netcoreapp2.1\GeradorMegaSena.AssemblyInfo.cs
+E:\Dropbox\Projetos\GeradorMegaSena\GeradorMegaSena\obj\Debug\netcoreapp2.1\GeradorMegaSena.dll
+E:\Dropbox\Projetos\GeradorMegaSena\GeradorMegaSena\obj\Debug\netcoreapp2.1\GeradorMegaSena.pdb

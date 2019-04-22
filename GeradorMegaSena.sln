@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeradorMegaSena", "GeradorMegaSena\GeradorMegaSena.csproj", "{373E904F-AFB0-4DE2-874E-1D8F3C2F6161}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{373E904F-AFB0-4DE2-874E-1D8F3C2F6161}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{373E904F-AFB0-4DE2-874E-1D8F3C2F6161}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{373E904F-AFB0-4DE2-874E-1D8F3C2F6161}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{373E904F-AFB0-4DE2-874E-1D8F3C2F6161}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {765E4AB3-6614-458B-A1CA-3DFF6C37164C}
+	EndGlobalSection
+EndGlobal
