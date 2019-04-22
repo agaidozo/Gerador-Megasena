@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Dropbox\\Projetos\\GeradorMegaSena\\GeradorMegaSena\\GeradorMegaSena.csproj",
+      "projectUniqueName": "E:\\Willy\\Documentos\\dev\\Megasena\\GeradorMegaSena\\GeradorMegaSena.csproj",
       "projectName": "GeradorMegaSena",
-      "projectPath": "E:\\Dropbox\\Projetos\\GeradorMegaSena\\GeradorMegaSena\\GeradorMegaSena.csproj",
+      "projectPath": "E:\\Willy\\Documentos\\dev\\Megasena\\GeradorMegaSena\\GeradorMegaSena.csproj",
       "packagesPath": "C:\\Users\\obde_\\.nuget\\packages\\",
-      "outputPath": "E:\\Dropbox\\Projetos\\GeradorMegaSena\\GeradorMegaSena\\obj\\",
+      "outputPath": "E:\\Willy\\Documentos\\dev\\Megasena\\GeradorMegaSena\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
