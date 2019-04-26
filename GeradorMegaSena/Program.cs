@@ -39,7 +39,7 @@ namespace GeradorMegaSena
 
             for (int i = 0; i < 6; i++)
             {
-                nRetorno.Add(numeros[random.Next(0, numeros.Count)]);
+                nRetorno.Add(numeros[random.Next(numeros.Count)]);
             }
 
             List<int> retorno = nRetorno.Distinct().OrderBy(x => x).ToList();
@@ -48,7 +48,7 @@ namespace GeradorMegaSena
             {
                 for (int i = retorno.Count; i < 6; i++)
                 {
-                    retorno.Add(numeros[random.Next(0, numeros.Count)]);
+                    retorno.Add(numeros[random.Next(numeros.Count)]);
                 }
 
                 retorno = retorno.Distinct().OrderBy(x => x).ToList();
