@@ -25,9 +25,9 @@ C:\Users\owdcampos\source\repos\Gerador-Megasena\GeradorMegaSena\bin\Debug\netco
 C:\Users\owdcampos\source\repos\Gerador-Megasena\GeradorMegaSena\bin\Debug\netcoreapp2.1\GeradorMegaSena.runtimeconfig.dev.json
 C:\Users\owdcampos\source\repos\Gerador-Megasena\GeradorMegaSena\bin\Debug\netcoreapp2.1\GeradorMegaSena.dll
 C:\Users\owdcampos\source\repos\Gerador-Megasena\GeradorMegaSena\bin\Debug\netcoreapp2.1\GeradorMegaSena.pdb
-C:\Users\owdcampos\source\repos\Gerador-Megasena\GeradorMegaSena\obj\Debug\netcoreapp2.1\GeradorMegaSena.csprojAssemblyReference.cache
 C:\Users\owdcampos\source\repos\Gerador-Megasena\GeradorMegaSena\obj\Debug\netcoreapp2.1\GeradorMegaSena.csproj.CoreCompileInputs.cache
 C:\Users\owdcampos\source\repos\Gerador-Megasena\GeradorMegaSena\obj\Debug\netcoreapp2.1\GeradorMegaSena.AssemblyInfoInputs.cache
 C:\Users\owdcampos\source\repos\Gerador-Megasena\GeradorMegaSena\obj\Debug\netcoreapp2.1\GeradorMegaSena.AssemblyInfo.cs
 C:\Users\owdcampos\source\repos\Gerador-Megasena\GeradorMegaSena\obj\Debug\netcoreapp2.1\GeradorMegaSena.dll
 C:\Users\owdcampos\source\repos\Gerador-Megasena\GeradorMegaSena\obj\Debug\netcoreapp2.1\GeradorMegaSena.pdb
+C:\Users\owdcampos\source\repos\Gerador-Megasena\GeradorMegaSena\obj\Debug\netcoreapp2.1\GeradorMegaSena.csprojAssemblyReference.cache
