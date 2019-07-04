@@ -8,7 +8,11 @@ namespace GeradorMegaSena
     {
         private static void Main(string[] args)
         {
-            string numerosString = "Numeros: ";
+            Random random = new Random();
+            List<int> dias = new List<int> { 25, 19, 16, 35, 12, 31 };
+            string numerosString = "Dia de apostar do mês: ";
+            numerosString += dias[random.Next(dias.Count)] + "\n";
+            numerosString += "Numeros: ";
             List<int> n = GerarNumeros();
 
             foreach (int item in n)
