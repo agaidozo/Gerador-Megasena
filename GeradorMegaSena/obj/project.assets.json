@@ -688,23 +688,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\obde_\\.nuget\\packages\\": {},
+    "C:\\Users\\owdcampos\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Willy\\Documentos\\dev\\Megasena\\GeradorMegaSena\\GeradorMegaSena.csproj",
+      "projectUniqueName": "C:\\Users\\owdcampos\\source\\repos\\Gerador-Megasena\\GeradorMegaSena\\GeradorMegaSena.csproj",
       "projectName": "GeradorMegaSena",
-      "projectPath": "E:\\Willy\\Documentos\\dev\\Megasena\\GeradorMegaSena\\GeradorMegaSena.csproj",
-      "packagesPath": "C:\\Users\\obde_\\.nuget\\packages\\",
-      "outputPath": "E:\\Willy\\Documentos\\dev\\Megasena\\GeradorMegaSena\\obj\\",
+      "projectPath": "C:\\Users\\owdcampos\\source\\repos\\Gerador-Megasena\\GeradorMegaSena\\GeradorMegaSena.csproj",
+      "packagesPath": "C:\\Users\\owdcampos\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\owdcampos\\source\\repos\\Gerador-Megasena\\GeradorMegaSena\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\obde_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\owdcampos\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -712,6 +712,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://desenv.siggo.fazenda.df.gov.br:9999/nuget": {},
+        "http://fazendasrv512:9999/nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -729,6 +731,7 @@
       "netcoreapp2.1": {
         "dependencies": {
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true
