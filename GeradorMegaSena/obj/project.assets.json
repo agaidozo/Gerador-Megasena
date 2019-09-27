@@ -688,23 +688,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\owdcampos\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\obde_\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\owdcampos\\source\\repos\\Gerador-Megasena\\GeradorMegaSena\\GeradorMegaSena.csproj",
+      "projectUniqueName": "E:\\Willy\\Documentos\\dev\\Megasena\\GeradorMegaSena\\GeradorMegaSena.csproj",
       "projectName": "GeradorMegaSena",
-      "projectPath": "C:\\Users\\owdcampos\\source\\repos\\Gerador-Megasena\\GeradorMegaSena\\GeradorMegaSena.csproj",
-      "packagesPath": "C:\\Users\\owdcampos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\owdcampos\\source\\repos\\Gerador-Megasena\\GeradorMegaSena\\obj\\",
+      "projectPath": "E:\\Willy\\Documentos\\dev\\Megasena\\GeradorMegaSena\\GeradorMegaSena.csproj",
+      "packagesPath": "C:\\Users\\obde_\\.nuget\\packages\\",
+      "outputPath": "E:\\Willy\\Documentos\\dev\\Megasena\\GeradorMegaSena\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\owdcampos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\obde_\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -712,8 +708,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://desenv.siggo.fazenda.df.gov.br:9999/nuget": {},
-        "http://fazendasrv512:9999/nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -738,10 +732,16 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
