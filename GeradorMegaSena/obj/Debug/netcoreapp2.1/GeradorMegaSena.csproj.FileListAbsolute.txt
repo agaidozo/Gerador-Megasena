@@ -30,3 +30,13 @@ C:\Users\owdcampos\source\repos\Gerador-Megasena\GeradorMegaSena\obj\Debug\netco
 C:\Users\owdcampos\source\repos\Gerador-Megasena\GeradorMegaSena\obj\Debug\netcoreapp2.1\GeradorMegaSena.dll
 C:\Users\owdcampos\source\repos\Gerador-Megasena\GeradorMegaSena\obj\Debug\netcoreapp2.1\GeradorMegaSena.pdb
 C:\Users\owdcampos\source\repos\Gerador-Megasena\GeradorMegaSena\obj\Debug\netcoreapp2.1\GeradorMegaSena.csprojAssemblyReference.cache
+C:\Users\obde.campos\Documents\Projetos P\GeradorMegaSena\bin\Debug\netcoreapp2.1\GeradorMegaSena.deps.json
+C:\Users\obde.campos\Documents\Projetos P\GeradorMegaSena\bin\Debug\netcoreapp2.1\GeradorMegaSena.runtimeconfig.json
+C:\Users\obde.campos\Documents\Projetos P\GeradorMegaSena\bin\Debug\netcoreapp2.1\GeradorMegaSena.runtimeconfig.dev.json
+C:\Users\obde.campos\Documents\Projetos P\GeradorMegaSena\bin\Debug\netcoreapp2.1\GeradorMegaSena.dll
+C:\Users\obde.campos\Documents\Projetos P\GeradorMegaSena\bin\Debug\netcoreapp2.1\GeradorMegaSena.pdb
+C:\Users\obde.campos\Documents\Projetos P\GeradorMegaSena\obj\Debug\netcoreapp2.1\GeradorMegaSena.csprojAssemblyReference.cache
+C:\Users\obde.campos\Documents\Projetos P\GeradorMegaSena\obj\Debug\netcoreapp2.1\GeradorMegaSena.AssemblyInfoInputs.cache
+C:\Users\obde.campos\Documents\Projetos P\GeradorMegaSena\obj\Debug\netcoreapp2.1\GeradorMegaSena.AssemblyInfo.cs
+C:\Users\obde.campos\Documents\Projetos P\GeradorMegaSena\obj\Debug\netcoreapp2.1\GeradorMegaSena.dll
+C:\Users\obde.campos\Documents\Projetos P\GeradorMegaSena\obj\Debug\netcoreapp2.1\GeradorMegaSena.pdb

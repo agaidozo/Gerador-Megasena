@@ -688,19 +688,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\obde_\\.nuget\\packages\\": {}
+    "C:\\Users\\obde.campos\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Willy\\Documentos\\dev\\Megasena\\GeradorMegaSena\\GeradorMegaSena.csproj",
+      "projectUniqueName": "C:\\Users\\obde.campos\\Documents\\Projetos P\\GeradorMegaSena\\GeradorMegaSena.csproj",
       "projectName": "GeradorMegaSena",
-      "projectPath": "E:\\Willy\\Documentos\\dev\\Megasena\\GeradorMegaSena\\GeradorMegaSena.csproj",
-      "packagesPath": "C:\\Users\\obde_\\.nuget\\packages\\",
-      "outputPath": "E:\\Willy\\Documentos\\dev\\Megasena\\GeradorMegaSena\\obj\\",
+      "projectPath": "C:\\Users\\obde.campos\\Documents\\Projetos P\\GeradorMegaSena\\GeradorMegaSena.csproj",
+      "packagesPath": "C:\\Users\\obde.campos\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\obde.campos\\Documents\\Projetos P\\GeradorMegaSena\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\obde_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\obde.campos\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
