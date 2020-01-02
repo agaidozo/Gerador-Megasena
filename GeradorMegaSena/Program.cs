@@ -29,7 +29,8 @@ namespace GeradorMegaSena
                 15, 23, 30, 35, 38, 44,
                 22, 25, 28, 32, 33, 47,
                 05, 07, 10, 32, 46, 60,
-                10, 14, 16, 30, 32, 36
+                10, 14, 16, 30, 32, 36,
+                03, 35, 38, 40, 57, 58
             };
 
             List<int> nRetorno = new List<int>();
@@ -57,7 +58,7 @@ namespace GeradorMegaSena
         private static void Main(string[] args)
         {
             Random random = new Random();
-            List<int> dias = new List<int> { 25, 19, 16, 35, 12, 31, 34, 48, 16 };
+            List<int> dias = new List<int> { 25, 19, 16, 35, 12, 31, 34, 48, 16, 40, 03, 35, 38, 57, 58 };
             string numerosString = "Dia de apostar do mês: ";
             numerosString += dias[random.Next(dias.Count)] + "\n";
             numerosString += "Numeros: ";
