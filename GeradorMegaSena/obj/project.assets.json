@@ -688,19 +688,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\obde.campos\\.nuget\\packages\\": {}
+    "C:\\Users\\obde_\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\obde.campos\\Documents\\Projetos P\\GeradorMegaSena\\GeradorMegaSena.csproj",
+      "projectUniqueName": "D:\\Willy\\Documentos\\Programas Pessoais\\Gerador MegaSena\\GeradorMegaSena\\GeradorMegaSena.csproj",
       "projectName": "GeradorMegaSena",
-      "projectPath": "C:\\Users\\obde.campos\\Documents\\Projetos P\\GeradorMegaSena\\GeradorMegaSena.csproj",
-      "packagesPath": "C:\\Users\\obde.campos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\obde.campos\\Documents\\Projetos P\\GeradorMegaSena\\obj\\",
+      "projectPath": "D:\\Willy\\Documentos\\Programas Pessoais\\Gerador MegaSena\\GeradorMegaSena\\GeradorMegaSena.csproj",
+      "packagesPath": "C:\\Users\\obde_\\.nuget\\packages\\",
+      "outputPath": "D:\\Willy\\Documentos\\Programas Pessoais\\Gerador MegaSena\\GeradorMegaSena\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\obde.campos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\obde_\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -741,7 +741,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

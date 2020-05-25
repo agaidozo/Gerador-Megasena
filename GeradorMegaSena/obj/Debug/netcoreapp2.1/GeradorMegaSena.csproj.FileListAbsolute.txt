@@ -40,3 +40,15 @@ C:\Users\obde.campos\Documents\Projetos P\GeradorMegaSena\obj\Debug\netcoreapp2.
 C:\Users\obde.campos\Documents\Projetos P\GeradorMegaSena\obj\Debug\netcoreapp2.1\GeradorMegaSena.AssemblyInfo.cs
 C:\Users\obde.campos\Documents\Projetos P\GeradorMegaSena\obj\Debug\netcoreapp2.1\GeradorMegaSena.dll
 C:\Users\obde.campos\Documents\Projetos P\GeradorMegaSena\obj\Debug\netcoreapp2.1\GeradorMegaSena.pdb
+D:\Willy\Documentos\Programas Pessoais\Gerador MegaSena\GeradorMegaSena\bin\Debug\netcoreapp2.1\GeradorMegaSena.deps.json
+D:\Willy\Documentos\Programas Pessoais\Gerador MegaSena\GeradorMegaSena\bin\Debug\netcoreapp2.1\GeradorMegaSena.runtimeconfig.json
+D:\Willy\Documentos\Programas Pessoais\Gerador MegaSena\GeradorMegaSena\bin\Debug\netcoreapp2.1\GeradorMegaSena.runtimeconfig.dev.json
+D:\Willy\Documentos\Programas Pessoais\Gerador MegaSena\GeradorMegaSena\bin\Debug\netcoreapp2.1\GeradorMegaSena.dll
+D:\Willy\Documentos\Programas Pessoais\Gerador MegaSena\GeradorMegaSena\bin\Debug\netcoreapp2.1\GeradorMegaSena.pdb
+D:\Willy\Documentos\Programas Pessoais\Gerador MegaSena\GeradorMegaSena\obj\Debug\netcoreapp2.1\GeradorMegaSena.csprojAssemblyReference.cache
+D:\Willy\Documentos\Programas Pessoais\Gerador MegaSena\GeradorMegaSena\obj\Debug\netcoreapp2.1\GeradorMegaSena.csproj.CoreCompileInputs.cache
+D:\Willy\Documentos\Programas Pessoais\Gerador MegaSena\GeradorMegaSena\obj\Debug\netcoreapp2.1\GeradorMegaSena.AssemblyInfoInputs.cache
+D:\Willy\Documentos\Programas Pessoais\Gerador MegaSena\GeradorMegaSena\obj\Debug\netcoreapp2.1\GeradorMegaSena.AssemblyInfo.cs
+D:\Willy\Documentos\Programas Pessoais\Gerador MegaSena\GeradorMegaSena\obj\Debug\netcoreapp2.1\GeradorMegaSena.dll
+D:\Willy\Documentos\Programas Pessoais\Gerador MegaSena\GeradorMegaSena\obj\Debug\netcoreapp2.1\GeradorMegaSena.pdb
+D:\Willy\Documentos\Programas Pessoais\Gerador MegaSena\GeradorMegaSena\obj\Debug\netcoreapp2.1\GeradorMegaSena.genruntimeconfig.cache
